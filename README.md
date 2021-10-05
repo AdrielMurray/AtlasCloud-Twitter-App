@@ -22,7 +22,7 @@
 
  Here's a walkthrough of implemented user stories:
  
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62211880/135790770-48722817-870a-42a7-8f96-d6dcf33240c2.gif)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/62211880/135961932-1ebe47c2-d667-4aae-a0b8-347f92fcffb9.gif)
 
  
  
